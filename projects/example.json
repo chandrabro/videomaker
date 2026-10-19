@@ -1,0 +1,97 @@
+{
+  "brand": "Food Shield Nepal",
+  "handle": "@food.shield.nepal",
+  "showWatermark": true,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "s1",
+      "duration": 4,
+      "theme": "dark",
+      "chip": "Hotel सञ्चालक",
+      "headline": "हिजो एक जना customer ले [[पेट बिग्रियो]] भन्ने complain",
+      "visual": {
+        "type": "bubble",
+        "title": "Customer · हिजो",
+        "tag": "Complain",
+        "items": [
+          "पेट बिग्रियो..."
+        ]
+      }
+    },
+    {
+      "id": "s2",
+      "duration": 4,
+      "theme": "cream",
+      "chip": "Rewind",
+      "chipIcon": "⏪",
+      "headline": "बिहान ८ बजे: [[एउटै board]] मा raw chicken",
+      "visual": {
+        "type": "cards",
+        "items": [
+          "🍗 | Raw chicken",
+          "🥗 | Salad",
+          "🔪 | Knife"
+        ]
+      }
+    },
+    {
+      "id": "s3",
+      "duration": 4,
+      "theme": "green",
+      "chip": "३ कुरा",
+      "headline": "[[छुट्टाछुट्टै]] board र चक्कु",
+      "visual": {
+        "type": "compare",
+        "items": [
+          "🥩 | Raw | red",
+          "🥬 | Ready-to-eat | green"
+        ]
+      }
+    },
+    {
+      "id": "s4",
+      "duration": 5,
+      "theme": "green",
+      "chip": "३ कुरा",
+      "headline": "यी ३ कुरा याद राख्नुहोस्",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          "छुट्टाछुट्टै board र चक्कु",
+          "Raw meat छोएपछि हात धुने",
+          "Fridge मा तल raw, माथि cooked"
+        ]
+      }
+    },
+    {
+      "id": "s5",
+      "duration": 4,
+      "theme": "cream",
+      "chip": "रङअनुसार board",
+      "headline": "मुख्य कुरा: [[एउटा board, एउटै काम]]",
+      "visual": {
+        "type": "equation",
+        "title": "मुख्य कुरा",
+        "items": [
+          "एउटा board = एउटै काम"
+        ]
+      }
+    },
+    {
+      "id": "s6",
+      "duration": 3,
+      "theme": "orange",
+      "chip": "Audit र Training",
+      "headline": "यस्तै सानातिना कुरा [[ठूलो फरक]] पार्छ",
+      "visual": {
+        "type": "cards",
+        "items": [
+          "🔪 | Board",
+          "🧼 | Hands",
+          "🧊 | Fridge"
+        ]
+      }
+    }
+  ]
+}
